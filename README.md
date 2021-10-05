@@ -1,8 +1,8 @@
 <h1 align="center">
-<b> 『†hê Lêɠêɳ̃dẞø†』 </b>
+<b>  DARKEN </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
+[![DARKENBOT](https://telegra.ph/file/e5335fd66681fba9cf2a8.jpg)](https://github.com/LEGEND-OS/LEGENDUSERBOT)
 
 
 <p align="center">
