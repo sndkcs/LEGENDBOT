@@ -1,5 +1,5 @@
 {
-  "name": "Îtß Lêɠêɳ̃dẞø† 🇮🇳",
+  "name": Darkthon",
   "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ †hê~Lêɠêɳ̃dẞøY Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/cfc1ba8da5fd7ab02fa7d.jpg",
     "keywords": [
@@ -24,12 +24,12 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "†hê~Lêɠêɳ̃dẞøY 🇮🇳",
+      "value": "Darkthon",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† 𝐈𝐬 𝐀𝐥𝐢𝐯𝐞 🇮🇳",
+      "value": "DARKTHON",
       "required": false
     },
     "ABUSE": {
